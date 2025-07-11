@@ -1,0 +1,14 @@
+[
+  {
+    "name": "جهاز تنفس صناعي طراز A",
+    "desc": "جهاز تنفس صناعي ذكي بوضعيات متعددة، يستخدم في غرف العناية المركزة.",
+    "price": "35,000 جنيه",
+    "image": "https://via.placeholder.com/400x200?text=Ventilator+A"
+  },
+  {
+    "name": "جهاز تنفس صناعي طراز B",
+    "desc": "دقة عالية وتوافق مع الحالات الطارئة، شاشة LCD مدمجة.",
+    "price": "42,500 جنيه",
+    "image": "https://via.placeholder.com/400x200?text=Ventilator+B"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "مونيتور طراز X",
+    "desc": "مونيتور قياس متعدد (ECG, SPO2, NIBP)، شاشة 12 بوصة.",
+    "price": "18,000 جنيه",
+    "image": "https://via.placeholder.com/400x200?text=Monitor+X"
+  },
+  {
+    "name": "مونيتور طراز Y",
+    "desc": "يدعم مراقبة المريض طوال 24 ساعة، بطارية داخلية احتياطية.",
+    "price": "22,000 جنيه",
+    "image": "https://via.placeholder.com/400x200?text=Monitor+Y"
+  }
+]
