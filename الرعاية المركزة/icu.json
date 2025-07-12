@@ -1,0 +1,145 @@
+[
+  {
+    "category": "patient-monitor",
+    "title_ar": "جهاز مراقبة المريض",
+    "title_en": "Patient Monitor",
+    "devices": [
+      {
+        "id": "pm1",
+        "name_ar": "جهاز مراقبة طراز A",
+        "name_en": "Monitor A",
+        "desc": "يعرض ECG وSpO2 ودرجة الحرارة والضغط.",
+        "price": "7,200 جنيه",
+        "images": ["img/icu/monitors/pm1-1.jpg", "img/icu/monitors/pm1-2.jpg"]
+      }
+            {
+        "id": "pm2",
+        "name_ar": "جهاز مراقبة طراز A",
+        "name_en": "Monitor A",
+        "desc": "يعرض ECG وSpO2 ودرجة الحرارة والضغط.",
+        "price": "7,200 جنيه",
+        "images": ["img/icu/monitors/pm1-1.jpg", "img/icu/monitors/pm1-2.jpg"]
+      }
+    ]
+  },
+  {
+    "category": "ventilator",
+    "title_ar": "جهاز تنفس صناعي",
+    "title_en": "Ventilator",
+    "devices": [
+      {
+        "id": "vent1",
+        "name_ar": "جهاز تنفس طراز X",
+        "name_en": "Ventilator X",
+        "desc": "دعم تنفس كامل وتحكم في الضغط والحجم.",
+        "price": "18,000 جنيه",
+        "images": ["img/icu/ventilator/vent1-1.jpg", "img/icu/ventilator/vent1-2.jpg"]
+      }
+    ]
+  },
+  {
+    "category": "infusion-pump",
+    "title_ar": "مضخات وسرنجات المحاليل",
+    "title_en": "Syringe & Infusion Pump",
+    "devices": [
+      {
+        "id": "pump1",
+        "name_ar": "مضخة محاليل طراز A",
+        "name_en": "Infusion Pump A",
+        "desc": "تحكم إلكتروني دقيق للسوائل.",
+        "price": "6,500 جنيه",
+        "images": ["img/icu/pump/pump1-1.jpg"]
+      }
+    ]
+  },
+  {
+    "category": "defibrillator",
+    "title_ar": "جهاز الصدمات",
+    "title_en": "Defibrillator",
+    "devices": [
+      {
+        "id": "def1",
+        "name_ar": "جهاز صدمات طراز A",
+        "name_en": "Defibrillator A",
+        "desc": "يستخدم لإنعاش القلب في الحالات الطارئة.",
+        "price": "9,800 جنيه",
+        "images": ["img/icu/defibrillator/def1.jpg"]
+      }
+    ]
+  },
+  {
+    "category": "suction-machine",
+    "title_ar": "شفاط العمليات",
+    "title_en": "Suction Machine",
+    "devices": [
+      {
+        "id": "suc1",
+        "name_ar": "شفاط طراز A",
+        "name_en": "Suction A",
+        "desc": "شفط السوائل من مجرى الهواء أثناء الجراحة.",
+        "price": "4,400 جنيه",
+        "images": ["img/icu/suction/suc1.jpg"]
+      }
+    ]
+  },
+  {
+    "category": "nebulizer",
+    "title_ar": "جهاز النيبولايزر",
+    "title_en": "Nebulizer",
+    "devices": [
+      {
+        "id": "neb1",
+        "name_ar": "نيبولايزر طراز A",
+        "name_en": "Nebulizer A",
+        "desc": "تحويل الدواء إلى رذاذ يمكن استنشاقه.",
+        "price": "1,800 جنيه",
+        "images": ["img/icu/nebulizer/neb1.jpg"]
+      }
+    ]
+  },
+  {
+    "category": "humidifier",
+    "title_ar": "مرطب طبي",
+    "title_en": "Heated Humidifier",
+    "devices": [
+      {
+        "id": "hum1",
+        "name_ar": "مرطب طراز A",
+        "name_en": "Humidifier A",
+        "desc": "ترطيب الهواء المُزود للمريض لتقليل التهيج.",
+        "price": "3,000 جنيه",
+        "images": ["img/icu/humidifier/hum1.jpg"]
+      }
+    ]
+  },
+  {
+    "category": "xray-viewer",
+    "title_ar": "شاشة عرض الأشعة",
+    "title_en": "Bedside X-ray Viewer",
+    "devices": [
+      {
+        "id": "xv1",
+        "name_ar": "شاشة عرض طراز A",
+        "name_en": "X-Ray Viewer A",
+        "desc": "عرض صور الأشعة الطبية بجانب المريض.",
+        "price": "2,200 جنيه",
+        "images": ["img/icu/xray-viewer/xv1.jpg"]
+      }
+    ]
+  },
+  {
+    "category": "vital-sign-trolley",
+    "title_ar": "عربة العلامات الحيوية",
+    "title_en": "Vital Sign Trolley",
+    "devices": [
+      {
+        "id": "vst1",
+        "name_ar": "عربة طراز A",
+        "name_en": "Trolley A",
+        "desc": "تحريك أجهزة العلامات الحيوية بين غرف المرضى.",
+        "price": "5,500 جنيه",
+        "images": ["img/icu/trolley/vst1.jpg"]
+      }
+    ]
+  }
+]
