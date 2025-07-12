@@ -11,7 +11,7 @@
         "desc": "يعرض ECG وSpO2 ودرجة الحرارة والضغط.",
         "price": "7,200 جنيه",
         "images": ["img/icu/monitors/pm1-1.jpg", "img/icu/monitors/pm1-2.jpg"]
-      }
+      },
             {
         "id": "pm2",
         "name_ar": "جهاز مراقبة طراز A",
